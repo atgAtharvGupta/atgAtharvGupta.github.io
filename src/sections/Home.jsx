@@ -93,7 +93,7 @@ const Home = () => {
           animate={{ opacity: 1 }}
           transition={{ duration: 1, delay: 0.6 }}
         >
-          Full Stack Developer & UI/UX Designer
+          Full Stack Developer & ML Enginner 
         </Subtitle>
         
         <motion.div 
