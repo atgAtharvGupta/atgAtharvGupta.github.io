@@ -10,7 +10,7 @@ const Projects = () => {
       title: "3D Interactive Web Portfolio",
       description: "A portfolio website using React Three Fiber and Framer Motion for interactive 3D elements and animations.",
       tech: ["React", "Three.js", "Framer Motion", "Tailwind CSS"],
-      image: "/projects/portfolio.jpg",
+      image: "./projects/portfolio.jpg",
       link: "#"
     },
     {
@@ -18,7 +18,7 @@ const Projects = () => {
       title: "AI-Powered Task Manager",
       description: "Smart task management app with AI features to prioritize and categorize tasks automatically.",
       tech: ["React", "Node.js", "TensorFlow.js", "MongoDB"],
-      image: "/projects/taskmanager.jpg",
+      image: "./projects/taskmanager.jpg",
       link: "#"
     },
     {
@@ -26,7 +26,7 @@ const Projects = () => {
       title: "E-Commerce Platform",
       description: "Full-featured e-commerce platform with product management, cart functionality, and payment integration.",
       tech: ["Next.js", "Stripe", "Firebase", "Styled Components"],
-      image: "/projects/ecommerce.jpg",
+      image: "./projects/ecommerce.jpg",
       link: "#"
     },
     {
@@ -34,7 +34,7 @@ const Projects = () => {
       title: "Social Media Dashboard",
       description: "Comprehensive dashboard for monitoring and analyzing social media performance across platforms.",
       tech: ["Vue.js", "D3.js", "Express", "PostgreSQL"],
-      image: "/projects/dashboard.jpg",
+      image: "./projects/dashboard.jpg",
       link: "#"
     }
   ];

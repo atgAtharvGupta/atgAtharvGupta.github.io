@@ -23,9 +23,11 @@ function App() {
     // Preload 3D font for Text3D component
     const preloadFont = async () => {
       try {
-        const response = await fetch('/fonts/inter_bold.json');
+        // Use a relative path instead of an absolute path
+        const fontPath = 'fonts/inter_bold.json';
+        const response = await fetch(fontPath);
         if (!response.ok) {
-          console.error('Failed to preload font');
+          console.error('Failed to preload font:', response.status);
         }
       } catch (error) {
         console.error('Error preloading font:', error);
