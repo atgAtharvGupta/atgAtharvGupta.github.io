@@ -42,7 +42,7 @@ const About = () => {
                 />
               </div>
               <a 
-                href="/assets/Resume_Atharv_Gupta.pdf" 
+                href="/assets/Atharv_Gupta_Resume.pdf" 
                 download
                 className="py-3 px-6 bg-gradient-to-r from-purple-600 to-indigo-600 text-white rounded-lg hover:from-purple-700 hover:to-indigo-700 transition duration-300 transform hover:-translate-y-1 flex items-center shadow-lg"
               >
