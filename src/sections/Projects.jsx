@@ -15,18 +15,18 @@ const Projects = () => {
     },
     {
       id: 2,
-      title: "AI-Powered Task Manager",
-      description: "Smart task management app with AI features to prioritize and categorize tasks automatically.",
-      tech: ["React", "Node.js", "TensorFlow.js", "MongoDB"],
-      image: "./projects/taskmanager.jpg",
+      title: "SGSITS Student Sangh (SSS)",
+      description: "A comprehensive platform showcasing various wings of SSS at SGSITS, providing information about activities, missions, and membership opportunities with multilingual support.",
+      tech: ["React", "Vite", "Tailwind CSS", "Framer Motion", "React-i18next"],
+      image: "./projects/sss.jpg",
       link: "#"
     },
     {
       id: 3,
-      title: "E-Commerce Platform",
-      description: "Full-featured e-commerce platform with product management, cart functionality, and payment integration.",
-      tech: ["Next.js", "Stripe", "Firebase", "Styled Components"],
-      image: "./projects/ecommerce.jpg",
+      title: "EklipXit",
+      description: "An innovative Android application that revolutionizes test generation in education by automatically creating questions from text or PDF content using large language models with quality verification.",
+      tech: ["Android", "Large Language Models", "PDF Processing", "Machine Learning"],
+      image: "./projects/ekplixit.jpg",
       link: "#"
     },
     {
